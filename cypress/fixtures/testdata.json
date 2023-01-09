@@ -1,0 +1,7 @@
+{
+  "checkboxIndex": 0,
+  "dropdownIndex": 1,
+  "dropdownValue": "Option 1",
+  "fileUploadURL": "cypress/fixtures/testdata.json",
+  "inputValue": 33
+}
