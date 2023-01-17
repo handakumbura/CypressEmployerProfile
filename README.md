@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/handakumbura/CypressEmployerProfile/actions/workflows/node.js.yml/badge.svg)](https://github.com/handakumbura/CypressEmployerProfile/actions/workflows/node.js.yml)
+
 # CypressEmployerProfile
 
 To run the tests,
